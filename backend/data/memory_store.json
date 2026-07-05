@@ -1,0 +1,31 @@
+[
+    {
+        "id": "833eda28-4823-4b18-8005-a372fe21becc",
+        "text": "my fav footballer is messi",
+        "source": "Cognee + Local Cache",
+        "favorite": false,
+        "created_at": "2026-07-04T23:40:27.778415",
+        "updated_at": "2026-07-04T23:40:27.778415"
+    },
+    {
+        "id": "3a00e99b-b4f8-4d3c-ab0a-b98464a8c921",
+        "text": "my fav superhero is spiderman",
+        "favorite": false,
+        "created_at": "2026-07-05T14:40:49.133162",
+        "updated_at": "2026-07-05T14:40:49.133162"
+    },
+    {
+        "id": "56fe7ef7-a9bc-4bef-8bb6-0c3e16f2290a",
+        "text": "my fav football player is messi",
+        "favorite": false,
+        "created_at": "2026-07-05T14:41:27.758514",
+        "updated_at": "2026-07-05T14:41:27.758514"
+    },
+    {
+        "id": "89ab3b37-7e82-4d17-bca9-9c8a1a9e60ab",
+        "text": "my name is messi",
+        "favorite": true,
+        "created_at": "2026-07-05T19:07:33.088886",
+        "updated_at": "2026-07-05T19:07:33.088886"
+    }
+]

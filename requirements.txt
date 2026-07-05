@@ -1,0 +1,2 @@
+# Runtime requirements for the scaffolded project
+# The current implementation uses only the Python standard library.
