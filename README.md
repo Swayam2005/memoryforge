@@ -1,16 +1,61 @@
 # MemoryForge
 
-A lightweight memory storage and graph demo project.
+MemoryForge is an AI-powered long-term memory assistant that helps users store, search, organize, and manage memories through a modern web interface.
 
-## Run
+## Features
 
-From the project root:
+- Remember new memories
+- Recall saved memories
+- Edit memories
+- Delete memories
+- Favorite memories
+- Dashboard analytics
+- History management
+- Responsive UI
 
-- `C:/Users/DELL/myenv/Scripts/python.exe -m unittest discover -s test -p "test_*.py"`
-- `C:/Users/DELL/myenv/Scripts/python.exe frontend/app.py`
+## Tech Stack
 
-## Structure
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
-- `backend/` contains the memory store, graph logic, and app orchestration.
-- `frontend/` contains a simple demo entrypoint.
-- `test/` contains regression tests.
+### Backend
+- FastAPI
+- Python
+- HTTPX
+- Local JSON Memory Cache
+
+## Installation
+
+### Backend
+
+```bash
+pip install -r requirements.txt
+uvicorn backend.main:app --reload
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## Project Structure
+
+```
+memoryforge/
+├── backend/
+├── frontend/
+├── requirements.txt
+└── README.md
+```
+
+## Team
+
+Hangover Hackathon 2026
+
+MemoryForge
