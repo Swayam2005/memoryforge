@@ -1,2 +1,5 @@
-# Runtime requirements for the scaffolded project
-# The current implementation uses only the Python standard library.
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
